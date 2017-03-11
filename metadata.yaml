@@ -1,5 +1,8 @@
 _repo: Northanger-Abbey_121
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Austen, Jane
@@ -28,6 +31,8 @@ description: "For films named Northanger Abbey, see Northanger Abbey (1986 film)
   \ given it; the title Northanger Abbey is presumed to have been the invention of\
   \ Henry Austen, who had arranged for the book's publication.\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/121#Northanger-Abbey
 gutenberg_bookshelf: Gothic Fiction
 gutenberg_issued: '1994-04-01'
 gutenberg_type: Text
