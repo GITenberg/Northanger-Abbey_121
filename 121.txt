@@ -11,7 +11,7 @@ Title: Northanger Abbey
 Author: Jane Austen
 
 Release Date: April, 1994  [Etext #121]
-Posting Date: January 21, 2010
+Last Updated: September 24, 2013
 
 Language: English
 
@@ -2515,7 +2515,7 @@ go on to Kingsweston."
 more. Kingsweston! Aye, and Blaize Castle too, and anything else we can
 hear of; but here is your sister says she will not go."
 
-"Blaize Castle!" cried Catherine. "What is that'?"
+"Blaize Castle!" cried Catherine. "What is that?"
 
 "The finest place in England--worth going fifty miles at any time to
 see."
@@ -2532,9 +2532,9 @@ see."
 
 "By dozens."
 
-"Then I should like to see it; but I cannot--I cannot go.
+"Then I should like to see it; but I cannot--I cannot go."
 
-"Not go! My beloved creature, what do you mean'?"
+"Not go! My beloved creature, what do you mean?"
 
 "I cannot go, because"--looking down as she spoke, fearful of Isabella's
 smile--"I expect Miss Tilney and her brother to call on me to take a
@@ -2549,7 +2549,7 @@ saw them--does he not drive a phaeton with bright chestnuts?"
 "Yes, I know he does; I saw him. You are talking of the man you danced
 with last night, are not you?"
 
-"Yes.
+"Yes."
 
 "Well, I saw him at that moment turn up the Lansdown Road, driving a
 smart-looking girl."
@@ -2945,7 +2945,7 @@ passed in review before the reader; the events of each day, its hopes
 and fears, mortifications and pleasures, have been separately stated,
 and the pangs of Sunday only now remain to be described, and close the
 week. The Clifton scheme had been deferred, not relinquished, and on
-the afternoon's crescent of this day, it was brought forward again. In a
+the afternoon's Crescent of this day, it was brought forward again. In a
 private consultation between Isabella and James, the former of whom had
 particularly set her heart upon going, and the latter no less anxiously
 placed his upon pleasing her, it was agreed that, provided the weather
@@ -3089,7 +3089,9 @@ go after them. It does not signify talking. If I could not be persuaded
 into doing what I thought wrong, I never will be tricked into it."
 And with these words she broke away and hurried off. Thorpe would have
 darted after her, but Morland withheld him. "Let her go, let her go, if
-she will go. She is as obstinate as--"
+she will go."
+
+"She is as obstinate as--"
 
 Thorpe never finished the simile, for it could hardly have been a proper
 one.
@@ -3615,7 +3617,7 @@ it had been more delightful than anybody could conceive. Such was the
 information of the first five minutes; the second unfolded thus much in
 detail--that they had driven directly to the York Hotel, ate some soup,
 and bespoke an early dinner, walked down to the pump-room, tasted the
-water, and laid out some shillings in purses and spars; thence adjoined
+water, and laid out some shillings in purses and spars; thence adjourned
 to eat ice at a pastry-cook's, and hurrying back to the hotel, swallowed
 their dinner in haste, to prevent being in the dark; and then had a
 delightful drive back, only the moon was not up, and it rained a little,
@@ -4068,7 +4070,7 @@ well."
 
 "Shall I indeed? Do you really desire it? But you are not aware of the
 consequences; it will involve you in a very cruel embarrassment, and
-certainly bring on a disagreement between us.
+certainly bring on a disagreement between us."
 
 "No, no; it shall not do either; I am not afraid."
 
@@ -5403,7 +5405,7 @@ state of mind, but whose gentle hint of sympathetic early rising did not
 advance her composure.
 
 The elegance of the breakfast set forced itself on Catherine's notice
-when they were seated at table; and, lucidly, it had been the general's
+when they were seated at table; and, luckily, it had been the general's
 choice. He was enchanted by her approbation of his taste, confessed it
 to be neat and simple, thought it right to encourage the manufacture of
 his country; and for his part, to his uncritical palate, the tea was as
@@ -5502,7 +5504,7 @@ across a small portion of the park.
 
 The number of acres contained in this garden was such as Catherine could
 not listen to without dismay, being more than double the extent of all
-Mr. Allen's, as well her father's, including church-yard and orchard.
+Mr. Allen's, as well as her father's, including church-yard and orchard.
 The walls seemed countless in number, endless in length; a village of
 hot-houses seemed to arise among them, and a whole parish to be at
 work within the enclosure. The general was flattered by her looks of
@@ -6611,7 +6613,7 @@ faults, but Woodston probably had none. If Wednesday should ever come!
 
 It did come, and exactly when it might be reasonably looked for. It
 came--it was fine--and Catherine trod on air. By ten o'clock, the chaise
-and four conveyed the two from the abbey; and, after an agreeable drive
+and four conveyed the trio from the abbey; and, after an agreeable drive
 of almost twenty miles, they entered Woodston, a large and populous
 village, in a situation not unpleasant. Catherine was ashamed to say
 how pretty she thought it, as the general seemed to think an apology
@@ -7717,7 +7719,7 @@ I leave it to my reader's sagacity to determine how much of all this
 it was possible for Henry to communicate at this time to Catherine, how
 much of it he could have learnt from his father, in what points his own
 conjectures might assist him, and what portion must yet remain to be
-told in a letter from James. I have united for their case what they must
+told in a letter from James. I have united for their ease what they must
 divide for mine. Catherine, at any rate, heard enough to feel that in
 suspecting General Tilney of either murdering or shutting up his wife,
 she had scarcely sinned against his character, or magnified his cruelty.
